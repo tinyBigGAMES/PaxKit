@@ -80,3 +80,12 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+
+# PaxKit
+/.claude
+_checkpoint.cmd
+_distro.cmd
+/bin
+checkpoint.yml
+checkpoint.zip
+distro.yml
